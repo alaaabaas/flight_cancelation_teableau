@@ -1,0 +1,43 @@
+insight 1:
+link:
+   https://public.tableau.com/app/profile/alaa.m.abaas/viz/flight_cancellation/Dashboard2?publish=yes
+summary:
+  From the map ,we can see where the most cancellations ocuur compared to the the total number of flights in each state and we used the 
+i showed the two plots in the same dasboard to prove that the higher cancellation rate cant be explaned by that some states already have more flight traffic which will result in more 
+findings:
+  it appears that most cancellations happen in California (12.15%) and Texas(11.84%) while Califorina and Texas are not among the top ten 
+states with higher filghts booked
+other states have relatively equal contributions to the total cancellations
+desgin choice:
+  the blue color was choosen to be less distructive
+resources:
+N/A
+
+insight 2:
+link:
+ https://public.tableau.com/app/profile/alaa.m.abaas/viz/origin_departureDelay/Dashboard2?publish=yes
+summary:
+ from the obtained distribuation we are trying to see wether some airports being the origin airports are related 
+to more departure delays maybe some airports causes the flights to delay its departure
+findings:
+ Some airports have significantly higher departure delays than others like ILG 
+While  the case is reversed in other  airports 
+That planes always departs earlier than its departure time 
+May be this is related to how crowded the airport is that more crowded airports causes more departure delays
+desgin choice:
+ creating a bar chart for this visual allowed me to show the distribution of delays among all of the US airports
+resources:
+N/A
+
+insight 3:
+link:
+https://public.tableau.com/app/profile/alaa.m.abaas/viz/origin_departureDelay/Dashboard3
+summary:
+I tried to discover if there exists a relation between the distance travelled and the arrival delay I mean to answer the question if the distance travelled is long is it more probable that the arrival is delayed 
+Findings:
+Arrival delays increases for shorter travelling distances 
+Design choices:
+Orange and pale blue colors were chosen 
+To help people with color blindness disease
+resources:
+N/A
