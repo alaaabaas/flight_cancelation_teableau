@@ -9,4 +9,4 @@ Are some flights departing from certain states more likely to be delayed?
 Is there a correlation between the distance travelled and the probability that a flight delays?
 
 
-are some airports contributing to the total delays scored more than others?
+Are some airports contributing to the total delays scored more than others?
